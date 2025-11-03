@@ -1,5 +1,3 @@
-<div align="center">
-
 ![hyb8nate dashboard](screen_dashboard.png)
 
 <div align="center">
