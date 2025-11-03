@@ -1,14 +1,3 @@
-<div>
-    <div style="float: left">
-        <img src="https://hyb8nate.xyz/images/logo-64.png" />
-    </div>
-    <div>
-        <h1>
-          hyb8nate
-        </h1>
-    </div>
-</div>
-
 <div align="center">
 
 ![hyb8nate dashboard](screen_dashboard.png)
